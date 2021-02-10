@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="20" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#000000;
+      }
+      .ColorScheme-Background{
+        color:#7f7f7f;
+      }
+      .ColorScheme-ViewText {
+        color:#000000;
+      }
+      .ColorScheme-ViewBackground{
+        color:#ffffff;
+      }
+      .ColorScheme-ViewHover {
+        color:#7f7f7f;
+      }
+      .ColorScheme-ViewFocus{
+        color:#5a5a5a;
+      }
+      .ColorScheme-ButtonText {
+        color:#000000;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#E9E8E8;
+      }
+      .ColorScheme-ButtonHover {
+        color:#1489ff;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#2B74C7;
+      }</style>
+ </defs>
+ <g id="hover-center" transform="matrix(1.3 0 0 1.3 45.734 17.657)">
+  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
+  <path class="ColorScheme-ViewHover" transform="matrix(1.1538 0 0 1.1538 -50.282 -15.216)" d="m45 6a6 6 0 1 1-12 0 6 6 0 1 1 12 0z" fill="currentColor"/>
+  <rect x="-6.8855" y="-9.9531" width="3.207" height="3.3212" rx=".28546" ry=".28546" fill="#fff"/>
+ </g>
+ <g id="active-center" transform="matrix(1.3 0 0 1.3 19.734 17.657)">
+  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
+  <rect x="-6.7832" y="-9.8585" width="3.207" height="3.3212" rx=".28546" ry=".28546" fill="#fff"/>
+ </g>
+ <g id="inactive-center" transform="matrix(1.3 0 0 1.3 97.734 17.657)">
+  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
+  <rect x="-6.8257" y="-9.8585" width="3.207" height="3.3212" rx=".28546" ry=".28546" fill="#bdc3c7"/>
+ </g>
+ <g id="pressed-center" transform="matrix(1.3 0 0 1.3 71.734 17.657)">
+  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
+  <path class="ColorScheme-ViewHover" transform="matrix(1.1538 0 0 1.1538 -50.282 -15.216)" d="m45 6a6 6 0 1 1-12 0 6 6 0 1 1 12 0z" fill="currentColor" fill-opacity=".75"/>
+  <rect x="-6.8855" y="-9.9531" width="3.207" height="3.3212" rx=".28546" ry=".28546" fill="#606060"/>
+ </g>
+ <g id="hover-inactive-center" transform="matrix(1.3 0 0 1.3 123.73 17.657)">
+  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
+  <path class="ColorScheme-ViewHover" transform="matrix(1.1538 0 0 1.1538 -50.282 -15.216)" d="m45 6a6 6 0 1 1-12 0 6 6 0 1 1 12 0z" fill="currentColor"/>
+  <rect x="-6.8855" y="-9.9531" width="3.207" height="3.3212" rx=".28546" ry=".28546" fill="#fff"/>
+ </g>
+ <g id="pressed-inactive-center" transform="matrix(1.3 0 0 1.3 149.73 17.657)">
+  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
+  <path class="ColorScheme-ViewHover" transform="matrix(1.1538 0 0 1.1538 -50.282 -15.216)" d="m45 6a6 6 0 1 1-12 0 6 6 0 1 1 12 0z" fill="currentColor" fill-opacity=".75"/>
+  <rect x="-6.8855" y="-9.9531" width="3.207" height="3.3212" rx=".28546" ry=".28546" fill="#606060"/>
+ </g>
+</svg>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="20" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#000000;
+      }
+      .ColorScheme-Background{
+        color:#7f7f7f;
+      }
+      .ColorScheme-ViewText {
+        color:#000000;
+      }
+      .ColorScheme-ViewBackground{
+        color:#ffffff;
+      }
+      .ColorScheme-ViewHover {
+        color:#7f7f7f;
+      }
+      .ColorScheme-ViewFocus{
+        color:#5a5a5a;
+      }
+      .ColorScheme-ButtonText {
+        color:#000000;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#E9E8E8;
+      }
+      .ColorScheme-ButtonHover {
+        color:#1489ff;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#2B74C7;
+      }</style>
+ </defs>
+ <g id="hover-center" transform="matrix(1.3 0 0 1.3 45.734 17.657)">
+  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
+  <path class="ColorScheme-ViewHover" transform="matrix(1.1538 0 0 1.1538 -50.282 -15.216)" d="m45 6a6 6 0 1 1-12 0 6 6 0 1 1 12 0z" fill="currentColor"/>
+  <g transform="matrix(1 0 0 -1 0 -16.121)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.0769">
+   <path d="m-1.9993-11.138-3.2935 3.4987-3.1519-3.3519"/>
+   <path d="m-1.8708-4.9842h-6.711"/>
+  </g>
+ </g>
+ <g id="active-center" transform="matrix(1.3 0 0 1.3 19.734 17.657)">
+  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
+  <g transform="matrix(1 0 0 -1 0 -16.131)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.0769">
+   <path d="m-1.9879-11.144-3.3054 3.5114-3.1633-3.3641"/>
+   <path d="m-1.8708-4.9842h-6.711"/>
+  </g>
+ </g>
+ <g id="inactive-center" transform="matrix(1.3 0 0 1.3 97.734 17.657)">
+  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
+  <g transform="matrix(1 0 0 -1 0 -16.131)" fill="none" stroke="#bdc3c7" stroke-linecap="round" stroke-width="1.0769">
+   <path d="m-1.9879-11.144-3.3054 3.5114-3.1633-3.3641"/>
+   <path d="m-1.8708-4.9842h-6.711"/>
+  </g>
+ </g>
+ <g id="pressed-center" transform="matrix(1.3 0 0 1.3 71.734 17.657)">
+  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
+  <path class="ColorScheme-ViewHover" transform="matrix(1.1538 0 0 1.1538 -50.282 -15.216)" d="m45 6a6 6 0 1 1-12 0 6 6 0 1 1 12 0z" fill="currentColor" fill-opacity=".75"/>
+  <g transform="matrix(1 0 0 -1 0 -16.121)" fill="none" stroke="#606060" stroke-linecap="round" stroke-width="1.0769">
+   <path d="m-1.9996-7.2541-3.2935-3.4987-3.1519 3.3519"/>
+   <path d="m-1.8708-4.9842h-6.711"/>
+  </g>
+ </g>
+ <g id="hover-inactive-center" transform="matrix(1.3 0 0 1.3 123.73 17.657)">
+  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
+  <path class="ColorScheme-ViewHover" transform="matrix(1.1538 0 0 1.1538 -50.282 -15.216)" d="m45 6a6 6 0 1 1-12 0 6 6 0 1 1 12 0z" fill="currentColor"/>
+  <g transform="matrix(1 0 0 -1 0 -16.121)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.0769">
+   <path d="m-1.9996-11.138-3.2935 3.4987-3.1519-3.3519"/>
+   <path d="m-1.8708-4.9842h-6.711"/>
+  </g>
+ </g>
+ <g id="pressed-inactive-center" transform="matrix(1.3 0 0 1.3 149.73 17.657)">
+  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
+  <path class="ColorScheme-ViewHover" transform="matrix(1.1538 0 0 1.1538 -50.282 -15.216)" d="m45 6a6 6 0 1 1-12 0 6 6 0 1 1 12 0z" fill="currentColor" fill-opacity=".75"/>
+  <g transform="matrix(1 0 0 -1 0 -16.121)" fill="none" stroke="#606060" stroke-linecap="round" stroke-width="1.0769">
+   <path d="m-1.9996-7.2541-3.2935-3.4987-3.1518 3.3519"/>
+   <path d="m-1.8708-4.9842h-6.711"/>
+  </g>
+ </g>
+</svg>

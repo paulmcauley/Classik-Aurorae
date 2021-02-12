@@ -23,7 +23,7 @@
         color:#ffffff;
       }
       .ColorScheme-ViewHover {
-        color:#7f7f7f;
+        color:#3daee9;
       }
       .ColorScheme-ViewFocus{
         color:#5a5a5a;
@@ -41,98 +41,86 @@
         color:#2B74C7;
       }</style>
  </defs>
- <g id="active-center" transform="matrix(1.3 0 0 1.3 19.734 17.657)" stroke="#fff">
-  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
-  <g transform="translate(-1.0154 -.0060715)" fill="none" stroke="#fff" stroke-width=".84615">
-   <g>
-    <g>
-     <path d="m-9.5599-12.253h8.5446"/>
-     <path d="m-9.5416-8.6981h4.222"/>
-     <path d="m-9.5782-5.3716h4.2951"/>
-    </g>
-    <path d="m-1.3534-3.2332v-7.6399" stroke-linejoin="round"/>
+ <g id="active-center" stroke="#fff">
+  <rect x="-3.9673e-7" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <g fill="none" stroke-width="1.1">
+   <path d="m7.3058 1.7201h11.108"/>
+   <path d="m7.3296 6.3415h5.4886"/>
+   <path d="m7.282 10.666h5.5836"/>
+   <g stroke-linejoin="round">
+    <path d="m17.975 13.446v-9.9319"/>
+    <path d="m15.373 6.3653 2.6017-2.7205" stroke-linecap="round"/>
+    <path d="m17.975 3.6441 2.6017 2.7205" stroke-linecap="round"/>
    </g>
-   <path d="m-3.3548-8.6798 2.0013-2.0927" stroke-linecap="round" stroke-linejoin="round"/>
-   <path d="m-1.3534-10.773 2.0013 2.0927" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
  </g>
- <g id="hover-center" transform="matrix(1.3 0 0 1.3 45.734 17.657)">
-  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
-  <path class="ColorScheme-ViewHover" transform="matrix(1.1538 0 0 1.1538 -50.128 -14.908)" d="m45 6a6 6 0 1 1-12 0 6 6 0 1 1 12 0z" fill="currentColor"/>
-  <g transform="translate(-.03035 .05877)" fill="none" stroke="#fff" stroke-width=".84615">
-   <g>
-    <g>
-     <path d="m-9.5599-12.253h8.5446"/>
-     <path d="m-9.5416-8.6981h4.222"/>
-     <path d="m-9.5782-5.3716h4.2951"/>
-    </g>
-    <path d="m-1.3534-3.2332v-7.6399" stroke-linejoin="round"/>
+ <g id="hover-center">
+  <rect x="26" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path class="ColorScheme-ViewHover" d="m48 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" stroke-width="1.4999"/>
+  <g fill="none" stroke="#fff" stroke-width="1.1">
+   <path d="m33.306 1.8041h11.108"/>
+   <path d="m33.33 6.4255h5.4886"/>
+   <path d="m33.282 10.75h5.5836"/>
+   <g stroke-linejoin="round">
+    <path d="m43.975 13.53v-9.9319"/>
+    <path d="m41.373 6.4493 2.6017-2.7205" stroke-linecap="round"/>
+    <path d="m43.975 3.7281 2.6017 2.7205" stroke-linecap="round"/>
    </g>
-   <path d="m-3.3548-8.6798 2.0013-2.0927" stroke-linecap="round" stroke-linejoin="round"/>
-   <path d="m-1.3534-10.773 2.0013 2.0927" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
  </g>
- <g id="inactive-center" transform="matrix(1.3 0 0 1.3 97.734 17.657)">
-  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
-  <g transform="translate(-.52379 -.0060715)" fill="none" stroke="#bdc3c7" stroke-width=".84615">
-   <g>
-    <g>
-     <path d="m-9.5599-12.253h8.5446"/>
-     <path d="m-9.5416-8.6981h4.222"/>
-     <path d="m-9.5782-5.3716h4.2951"/>
-    </g>
-    <path d="m-1.3534-3.2332v-7.6399" stroke-linejoin="round"/>
+ <g id="inactive-center">
+  <rect x="78" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <g fill="none" stroke="#bdc3c7" stroke-width="1.1">
+   <path d="m85.306 1.7201h11.108"/>
+   <path d="m85.33 6.3415h5.4886"/>
+   <path d="m85.282 10.666h5.5836"/>
+   <g stroke-linejoin="round">
+    <path d="m95.975 13.446v-9.9319"/>
+    <path d="m93.373 6.3653 2.6017-2.7205" stroke-linecap="round"/>
+    <path d="m95.975 3.6441 2.6017 2.7205" stroke-linecap="round"/>
    </g>
-   <path d="m-3.3548-8.6798 2.0013-2.0927" stroke-linecap="round" stroke-linejoin="round"/>
-   <path d="m-1.3534-10.773 2.0013 2.0927" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
  </g>
- <g id="pressed-center" transform="matrix(1.3 0 0 1.3 71.734 17.657)">
-  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0" stroke-width=".84615"/>
-  <path class="ColorScheme-ViewHover" transform="matrix(1.1538 0 0 1.1538 -50.128 -14.908)" d="m45 6a6 6 0 1 1-12 0 6 6 0 1 1 12 0z" fill="currentColor" fill-opacity=".75"/>
-  <g fill="none" stroke="#606060" stroke-width=".84615">
-   <g>
-    <g>
-     <path d="m-9.5599-12.253h8.5446"/>
-     <path d="m-9.5416-8.6981h4.222"/>
-     <path d="m-9.5782-5.3716h4.2951"/>
-    </g>
-    <path d="m-1.3534-3.2332v-7.6399" stroke-linejoin="round"/>
+ <g id="pressed-center">
+  <rect x="52" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.1"/>
+  <path class="ColorScheme-ViewHover" d="m74 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" fill-opacity=".75" stroke-width="1.4999"/>
+  <g fill="none" stroke="#606060" stroke-width="1.1">
+   <path d="m59.306 1.7281h11.108"/>
+   <path d="m59.33 6.3495h5.4886"/>
+   <path d="m59.282 10.674h5.5836"/>
+   <g stroke-linejoin="round">
+    <path d="m69.975 13.454v-9.9319"/>
+    <path d="m67.373 6.3733 2.6017-2.7205" stroke-linecap="round"/>
+    <path d="m69.975 3.6521 2.6017 2.7205" stroke-linecap="round"/>
    </g>
-   <path d="m-3.3548-8.6798 2.0013-2.0927" stroke-linecap="round" stroke-linejoin="round"/>
-   <path d="m-1.3534-10.773 2.0013 2.0927" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
  </g>
- <g id="hover-inactive-center" transform="matrix(1.3 0 0 1.3 123.73 17.657)">
-  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
-  <path class="ColorScheme-ViewHover" transform="matrix(1.1538 0 0 1.1538 -50.128 -14.908)" d="m45 6a6 6 0 1 1-12 0 6 6 0 1 1 12 0z" fill="currentColor"/>
-  <g transform="translate(.024241 -.0060715)" fill="none" stroke="#fff" stroke-width=".84615">
-   <g>
-    <g>
-     <path d="m-9.5599-12.253h8.5446"/>
-     <path d="m-9.5416-8.6981h4.222"/>
-     <path d="m-9.5782-5.3716h4.2951"/>
-    </g>
-    <path d="m-1.3534-3.2332v-7.6399" stroke-linejoin="round"/>
+ <g id="hover-inactive-center">
+  <rect x="104" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path class="ColorScheme-ViewHover" d="m126 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" stroke-width="1.4999"/>
+  <g fill="none" stroke="#fff" stroke-width="1.1">
+   <path d="m111.33 1.7201h11.108"/>
+   <path d="m111.36 6.3415h5.4886"/>
+   <path d="m111.31 10.666h5.5836"/>
+   <g stroke-linejoin="round">
+    <path d="m122 13.446v-9.9319"/>
+    <path d="m119.4 6.3653 2.6017-2.7205" stroke-linecap="round"/>
+    <path d="m122 3.6441 2.6017 2.7205" stroke-linecap="round"/>
    </g>
-   <path d="m-3.3548-8.6798 2.0013-2.0927" stroke-linecap="round" stroke-linejoin="round"/>
-   <path d="m-1.3534-10.773 2.0013 2.0927" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
  </g>
- <g id="pressed-inactive-center" transform="matrix(1.3 0 0 1.3 149.73 17.657)">
-  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
-  <path class="ColorScheme-ViewHover" transform="matrix(1.1538 0 0 1.1538 -50.128 -14.908)" d="m45 6a6 6 0 1 1-12 0 6 6 0 1 1 12 0z" fill="currentColor" fill-opacity=".75"/>
-  <g transform="translate(.091257 -.0060715)" fill="none" stroke="#606060" stroke-width=".84615">
-   <g>
-    <g>
-     <path d="m-9.5599-12.253h8.5446"/>
-     <path d="m-9.5416-8.6981h4.222"/>
-     <path d="m-9.5782-5.3716h4.2951"/>
-    </g>
-    <path d="m-1.3534-3.2332v-7.6399" stroke-linejoin="round"/>
+ <g id="pressed-inactive-center">
+  <rect x="130" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path class="ColorScheme-ViewHover" d="m152 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" fill-opacity=".75" stroke-width="1.4999"/>
+  <g fill="none" stroke="#606060" stroke-width="1.1">
+   <path d="m137.42 1.7201h11.108"/>
+   <path d="m137.45 6.3415h5.4886"/>
+   <path d="m137.4 10.666h5.5836"/>
+   <g stroke-linejoin="round">
+    <path d="m148.09 13.446v-9.9319"/>
+    <path d="m145.49 6.3653 2.6017-2.7205" stroke-linecap="round"/>
+    <path d="m148.09 3.6441 2.6017 2.7205" stroke-linecap="round"/>
    </g>
-   <path d="m-3.3548-8.6798 2.0013-2.0927" stroke-linecap="round" stroke-linejoin="round"/>
-   <path d="m-1.3534-10.773 2.0013 2.0927" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
  </g>
 </svg>

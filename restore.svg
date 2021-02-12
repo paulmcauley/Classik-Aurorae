@@ -23,7 +23,7 @@
         color:#ffffff;
       }
       .ColorScheme-ViewHover {
-        color:#7f7f7f;
+        color:#3daee9;
       }
       .ColorScheme-ViewFocus{
         color:#5a5a5a;
@@ -41,50 +41,50 @@
         color:#2B74C7;
       }</style>
  </defs>
- <g id="hover-center" transform="matrix(1.3 0 0 1.3 45.734 17.657)">
-  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
-  <path class="ColorScheme-ViewHover" transform="matrix(1.1538 0 0 1.1538 -50.205 -15.216)" d="m45 6a6 6 0 1 1-12 0 6 6 0 1 1 12 0z" fill="currentColor"/>
-  <g transform="translate(-.11149 -.12255)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.0769">
-   <rect x="-9.2523" y="-10.537" width="6.8548" height="6.6935" rx=".28546" ry=".28546"/>
-   <path d="m-7.3787-10.544v-1.9531h6.4438v6.4438h-1.3543"/>
+ <g id="hover-center">
+  <rect x="26" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path class="ColorScheme-ViewHover" d="m48 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" stroke-width="1.4999"/>
+  <g fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.4">
+   <rect x="33.594" y="3.9229" width="8.9112" height="8.7016" rx=".3711" ry=".3711"/>
+   <path d="m36.03 3.9138v-2.539h8.3769v8.3769h-1.7606"/>
   </g>
  </g>
- <g id="pressed-center" transform="matrix(1.3 0 0 1.3 71.734 17.657)">
-  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
-  <path class="ColorScheme-ViewHover" transform="matrix(1.1538 0 0 1.1538 -50.205 -15.216)" d="m45 6a6 6 0 1 1-12 0 6 6 0 1 1 12 0z" fill="currentColor" fill-opacity=".75"/>
-  <g fill="none" stroke="#606060" stroke-linejoin="round" stroke-width="1.0769">
-   <rect x="-9.2523" y="-10.537" width="6.8548" height="6.6935" rx=".28546" ry=".28546"/>
-   <path d="m-7.3787-10.544v-1.9531h6.4438v6.4438h-1.3543"/>
+ <g id="pressed-center">
+  <rect x="52" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path class="ColorScheme-ViewHover" d="m74 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" fill-opacity=".75" stroke-width="1.4999"/>
+  <g fill="none" stroke="#606060" stroke-linejoin="round" stroke-width="1.4">
+   <rect x="59.594" y="3.9229" width="8.9112" height="8.7016" rx=".3711" ry=".3711"/>
+   <path d="m62.03 3.9138v-2.539h8.3769v8.3769h-1.7606"/>
   </g>
  </g>
- <g id="active-center" transform="matrix(1.3 0 0 1.3 19.734 17.657)">
-  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
-  <g transform="translate(-.0861 -.027943)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.0769">
-   <rect x="-9.2523" y="-10.537" width="6.8548" height="6.6935" rx=".28546" ry=".28546"/>
-   <path d="m-7.3787-10.544v-1.9531h6.4438v6.4438h-1.3543"/>
+ <g id="active-center">
+  <rect x="-3.9673e-7" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <g fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.4">
+   <rect x="7.594" y="3.9229" width="8.9112" height="8.7016" rx=".3711" ry=".3711"/>
+   <path d="m10.03 3.9138v-2.539h8.3769v8.3769h-1.7606"/>
   </g>
  </g>
- <g id="inactive-center" transform="matrix(1.3 0 0 1.3 97.734 17.657)">
-  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
-  <g transform="translate(-.0861 -.027943)" fill="none" stroke="#bdc3c7" stroke-linejoin="round" stroke-width="1.0769">
-   <rect x="-9.2523" y="-10.537" width="6.8548" height="6.6935" rx=".28546" ry=".28546"/>
-   <path d="m-7.3787-10.544v-1.9531h6.4438v6.4438h-1.3543"/>
+ <g id="inactive-center">
+  <rect x="78" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <g fill="none" stroke="#bdc3c7" stroke-linejoin="round" stroke-width="1.4">
+   <rect x="85.594" y="3.9229" width="8.9112" height="8.7016" rx=".3711" ry=".3711"/>
+   <path d="m88.03 3.9138v-2.539h8.3769v8.3769h-1.7606"/>
   </g>
  </g>
- <g id="hover-inactive-center" transform="matrix(1.3 0 0 1.3 123.73 17.657)">
-  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
-  <path class="ColorScheme-ViewHover" transform="matrix(1.1538 0 0 1.1538 -50.205 -15.216)" d="m45 6a6 6 0 1 1-12 0 6 6 0 1 1 12 0z" fill="currentColor"/>
-  <g transform="translate(-.11149 -.12255)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.0769">
-   <rect x="-9.2523" y="-10.537" width="6.8548" height="6.6935" rx=".28546" ry=".28546"/>
-   <path d="m-7.3787-10.544v-1.9531h6.4438v6.4438h-1.3543"/>
+ <g id="hover-inactive-center">
+  <rect x="104" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path class="ColorScheme-ViewHover" d="m126 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" stroke-width="1.4999"/>
+  <g fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.4">
+   <rect x="111.59" y="3.9229" width="8.9112" height="8.7016" rx=".3711" ry=".3711"/>
+   <path d="m114.03 3.9138v-2.539h8.3769v8.3769h-1.7606"/>
   </g>
  </g>
- <g id="pressed-inactive-center" transform="matrix(1.3 0 0 1.3 149.73 17.657)">
-  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
-  <path class="ColorScheme-ViewHover" transform="matrix(1.1538 0 0 1.1538 -50.205 -15.216)" d="m45 6a6 6 0 1 1-12 0 6 6 0 1 1 12 0z" fill="currentColor" fill-opacity=".75"/>
-  <g transform="translate(-.11148 -.12256)" fill="none" stroke="#606060" stroke-linejoin="round" stroke-width="1.0769">
-   <rect x="-9.2523" y="-10.537" width="6.8548" height="6.6935" rx=".28546" ry=".28546"/>
-   <path d="m-7.3787-10.544v-1.9531h6.4438v6.4438h-1.3543"/>
+ <g id="pressed-inactive-center">
+  <rect x="130" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path class="ColorScheme-ViewHover" d="m152 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" fill-opacity=".75" stroke-width="1.4999"/>
+  <g fill="none" stroke="#606060" stroke-linejoin="round" stroke-width="1.4">
+   <rect x="137.59" y="3.9229" width="8.9112" height="8.7016" rx=".3711" ry=".3711"/>
+   <path d="m140.03 3.9138v-2.539h8.3769v8.3769h-1.7606"/>
   </g>
  </g>
 </svg>

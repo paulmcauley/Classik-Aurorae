@@ -23,7 +23,7 @@
         color:#ffffff;
       }
       .ColorScheme-ViewHover {
-        color:#7f7f7f;
+        color:#3daee9;
       }
       .ColorScheme-ViewFocus{
         color:#5a5a5a;
@@ -41,48 +41,40 @@
         color:#2B74C7;
       }</style>
  </defs>
- <g id="hover-center" transform="matrix(1.3 0 0 1.3 45.734 17.657)">
-  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
-  <path class="ColorScheme-ViewHover" transform="matrix(1.1538 0 0 1.1538 -50.205 -15.216)" d="m45 6a6 6 0 1 1-12 0 6 6 0 1 1 12 0z" fill="currentColor"/>
-  <g transform="matrix(.85577 0 0 .85577 -1.0062 -1.2642)">
-   <path d="m-4.0501-14.97 3.9767 2.8091-4.3237 5.8128-3.7979-2.2927z" fill="#fff" stroke-width="6.9364"/>
-   <path d="m-9.7643-9.9959 6.8831 4.9443" fill="#ff2a2a" stroke="#fff" stroke-width=".65678px"/>
-   <path d="m-6.3932-7.4401-3.1573 4.3988" fill="none" stroke="#fff" stroke-width=".65382px"/>
-  </g>
+ <g id="hover-center">
+  <rect x="26" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path class="ColorScheme-ViewHover" d="m48 6.9996a8.9999 8.9999 0 1 1-18 0 8.9999 8.9999 0 1 1 18 0z" fill="currentColor" stroke-width="1.4999"/>
+  <path d="m40.073 0.25822 4.4241 3.1251-4.8101 6.4667-4.2252-2.5506z" fill="#fff" stroke-width="7.7168"/>
+  <path d="m33.716 5.7919 7.6575 5.5005" fill="#ff2a2a" stroke="#fff" stroke-width=".73067px"/>
+  <path d="m37.466 8.6352-3.5125 4.8937" fill="none" stroke="#fff" stroke-width=".72738px"/>
  </g>
- <g id="pressed-center" transform="matrix(1.3 0 0 1.3 71.734 17.657)">
-  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
-  <path class="ColorScheme-ViewHover" transform="matrix(1.1538 0 0 1.1538 -50.205 -15.216)" d="m45 6a6 6 0 1 1-12 0 6 6 0 1 1 12 0z" fill="currentColor" fill-opacity=".75"/>
-  <circle transform="matrix(1.3128 0 0 1.3128 -207.87 -563.86)" cx="154.39" cy="423.26" r=".87891" fill="#606060"/>
+ <g id="pressed-center">
+  <rect x="52" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path class="ColorScheme-ViewHover" d="m74 6.9996a8.9999 8.9999 0 1 1-18 0 8.9999 8.9999 0 1 1 18 0z" fill="currentColor" fill-opacity=".75" stroke-width="1.4999"/>
+  <circle cx="65" cy="6.9996" r="1.4999" fill="#606060" stroke-width="1.7066"/>
  </g>
- <g id="active-center" transform="matrix(1.3 0 0 1.3 19.734 17.657)">
-  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
-  <g transform="translate(-.042494 .76252)" fill="#fff">
-   <path d="m-4.0501-14.97 3.9767 2.8091-4.3237 5.8128-3.7979-2.2927z" stroke-width="6.9364"/>
-   <path d="m-9.7643-9.9959 6.8831 4.9443" stroke="#fff" stroke-width=".65678px"/>
-   <path d="m-6.3932-7.4401-3.1573 4.3988" stroke="#fff" stroke-width=".65382px"/>
-  </g>
+ <g id="active-center">
+  <rect x="-3.9673e-7" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path d="m14.073 0.25822 4.4241 3.1251-4.8101 6.4667-4.2252-2.5506z" fill="#fff" stroke-width="7.7168"/>
+  <path d="m7.716 5.7919 7.6575 5.5005" fill="#ff2a2a" stroke="#fff" stroke-width=".73067px"/>
+  <path d="m11.466 8.6352-3.5125 4.8937" fill="none" stroke="#fff" stroke-width=".72738px"/>
  </g>
- <g id="inactive-center" transform="matrix(1.3 0 0 1.3 100.96 17.657)">
-  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
-  <g transform="matrix(.85577 0 0 .85577 -2.6232 -1.3966)">
-   <path d="m-4.0501-14.97 3.9767 2.8091-4.3237 5.8128-3.7979-2.2927z" fill="#bdc3c7" stroke-width="6.9364"/>
-   <path d="m-9.7643-9.9959 6.8831 4.9443" fill="none" stroke="#bdc3c7" stroke-width=".65678px"/>
-   <path d="m-6.3932-7.4401-3.1573 4.3988" fill="none" stroke="#bdc3c7" stroke-width=".65382px"/>
-  </g>
+ <g id="inactive-center">
+  <rect x="81.226" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path d="m95.299 0.25822 4.4241 3.1251-4.8101 6.4667-4.2252-2.5506z" fill="#bdc3c7" stroke-width="7.7168"/>
+  <path d="m88.942 5.7919 7.6575 5.5005" fill="none" stroke="#bdc3c7" stroke-width=".73067px"/>
+  <path d="m92.692 8.6352-3.5125 4.8937" fill="none" stroke="#bdc3c7" stroke-width=".72738px"/>
  </g>
- <g id="hover-inactive-center" transform="matrix(1.3 0 0 1.3 123.73 17.657)">
-  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
-  <path class="ColorScheme-ViewHover" transform="matrix(1.1538 0 0 1.1538 -50.205 -15.216)" d="m45 6a6 6 0 1 1-12 0 6 6 0 1 1 12 0z" fill="currentColor"/>
-  <g transform="matrix(.85577 0 0 .85577 -1.0829 -1.0889)">
-   <path d="m-4.0501-14.97 3.9767 2.8091-4.3237 5.8128-3.7979-2.2927z" fill="#fff" stroke-width="6.9364"/>
-   <path d="m-9.7643-9.9959 6.8831 4.9443" fill="#ff2a2a" stroke="#fff" stroke-width=".65678px"/>
-   <path d="m-6.3932-7.4401-3.1573 4.3988" fill="none" stroke="#fff" stroke-width=".65382px"/>
-  </g>
+ <g id="hover-inactive-center">
+  <rect x="104" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path class="ColorScheme-ViewHover" d="m126 6.9996a8.9999 8.9999 0 1 1-18 0 8.9999 8.9999 0 1 1 18 0z" fill="currentColor" stroke-width="1.4999"/>
+  <path d="m118.07 0.25822 4.4241 3.1251-4.8101 6.4667-4.2252-2.5506z" fill="#fff" stroke-width="7.7168"/>
+  <path d="m111.71 5.7919 7.6574 5.5005" fill="#ff2a2a" stroke="#fff" stroke-width=".73067px"/>
+  <path d="m115.46 8.6352-3.5125 4.8937" fill="none" stroke="#fff" stroke-width=".72738px"/>
  </g>
- <g id="pressed-inactive-center" transform="matrix(1.3 0 0 1.3 149.73 17.657)">
-  <rect x="-15.18" y="-18.198" width="20" height="20" opacity="0"/>
-  <path class="ColorScheme-ViewHover" transform="matrix(1.1538 0 0 1.1538 -50.205 -15.216)" d="m45 6a6 6 0 1 1-12 0 6 6 0 1 1 12 0z" fill="currentColor" fill-opacity=".75"/>
-  <circle transform="matrix(1.3128 0 0 1.3128 -207.87 -563.86)" cx="154.39" cy="423.26" r=".87891" fill="#bdc3c7"/>
+ <g id="pressed-inactive-center">
+  <rect x="130" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path class="ColorScheme-ViewHover" d="m152 6.9996a8.9999 8.9999 0 1 1-18 0 8.9999 8.9999 0 1 1 18 0z" fill="currentColor" fill-opacity=".75" stroke-width="1.4999"/>
+  <circle cx="143" cy="6.9996" r="1.4999" fill="#bdc3c7" stroke-width="1.7066"/>
  </g>
 </svg>

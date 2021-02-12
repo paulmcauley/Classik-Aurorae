@@ -23,10 +23,10 @@
         color:#ffffff;
       }
       .ColorScheme-ViewHover {
-        color:#3daee9;
+        color:#93cee9;
       }
       .ColorScheme-ViewFocus{
-        color:#5a5a5a;
+        color:#3daee9;
       }
       .ColorScheme-ButtonText {
         color:#000000;

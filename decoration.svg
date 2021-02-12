@@ -5,7 +5,7 @@
         color:#000000;
       }
       .ColorScheme-Background{
-        color:#7f7f7f;
+        color:#31363b;
       }
       .ColorScheme-ViewText {
         color:#000000;
@@ -14,7 +14,7 @@
         color:#ffffff;
       }
       .ColorScheme-ViewHover {
-        color:#000000;
+        color:#3daee9;
       }
       .ColorScheme-ViewFocus{
         color:#5a5a5a;
@@ -67,54 +67,43 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <text x="486.33475" y="77.307137" fill="#000000" font-family="'Gill Sans'" font-weight="bold" text-align="justify" style="line-height:0%" xml:space="preserve"><tspan x="486.33475" y="77.307137" font-size="14px" style="line-height:1.25"> </tspan></text>
- <text x="20.214809" y="389.16403" fill="#000000" font-family="'Gill Sans'" font-weight="bold" text-align="justify" style="line-height:0%" xml:space="preserve"><tspan x="20.214809" y="389.16403" font-size="14px" style="line-height:1.25"> </tspan></text>
- <g fill="#ffffff" fill-opacity=".74869" font-family="Arial">
-  <text x="1001.3527" y="318.81726" style="line-height:0%" xml:space="preserve"><tspan x="1001.3527" y="318.81726" font-size="12px" style="line-height:1"> </tspan></text>
-  <text x="831.81171" y="15.15708" style="line-height:0%" xml:space="preserve"><tspan x="831.81171" y="15.15708" font-size="12px" style="line-height:1"> </tspan></text>
-  <text x="877.10394" y="109.229" style="line-height:0%" xml:space="preserve"><tspan x="877.10394" y="109.229" font-size="12px" style="line-height:1"> </tspan></text>
- </g>
- <g fill="#000000" letter-spacing="0px" word-spacing="0px">
-  <text x="855.27979" y="381.41403" font-family="'Droid Sans'" font-size="14px" style="line-height:0%" xml:space="preserve"><tspan x="855.27979" y="381.41403" style="line-height:1.25"> </tspan><tspan x="855.27979" y="398.91403" style="line-height:1.25"> </tspan></text>
-  <text x="827.49274" y="437.49988" font-family="'Droid Sans'" style="line-height:0%" xml:space="preserve"><tspan x="827.49274" y="437.49988" font-size="14px" style="line-height:1.25"> </tspan></text>
-  <text x="416.31564" y="191.7088" font-family="Oxygen" style="line-height:0%" xml:space="preserve"><tspan x="416.31564" y="191.7088" font-size="10px" style="line-height:1.25"> </tspan></text>
- </g>
+
  <g id="decoration-right" transform="translate(-34.674 244.01)">
   <rect x="254.67" y="188.35" width="20" height="100" fill="url(#linearGradient4614)"/>
-  <rect class="ColorScheme-Background" x="254.67" y="188.35" width="3" height="100" color="#7f7f7f" fill="#475057"/>
+  <rect class="ColorScheme-Background" x="254.67" y="188.35" width="3" height="100" fill="#31363b"/>
   <path class="ColorScheme-Text" d="m257.67 188.35h-0.74991v99.994h0.74991v0c-7e-5 -33.331 2.3e-4 -66.663 0-99.994z" color="#000000" fill="currentColor" fill-opacity=".25098"/>
  </g>
  <g id="decoration-bottom" transform="translate(-333.14 143.07)">
   <rect transform="rotate(90)" x="389.29" y="-553.14" width="20" height="100" fill="url(#linearGradient4616)"/>
-  <rect class="ColorScheme-Background" transform="rotate(90)" x="389.29" y="-553.14" width="3" height="100" color="#7f7f7f" fill="#475057"/>
+  <rect class="ColorScheme-Background" transform="rotate(90)" x="389.29" y="-553.14" width="3" height="100" fill="#31363b"/>
   <path class="ColorScheme-Text" d="m453.14 392.29v-0.74991h99.994v0.74991c-0.10766 0 0.036 0 0 0-33.331-7e-5 -66.663 2.3e-4 -99.994 0z" color="#000000" fill="currentColor" fill-opacity=".25098"/>
  </g>
  <g id="decoration-bottomright" transform="matrix(.99965 0 0 .99966 -23.913 232.46)">
-  <path class="ColorScheme-Background" transform="matrix(1.0109 0 0 1.0109 -207.14 -96.467)" d="m449.25 392.21a2.9688 2.9688 0 0 1-2.9688 2.9688v-2.9688z" color="#7f7f7f" fill="#475057"/>
+  <path class="ColorScheme-Background" transform="matrix(1.0109 0 0 1.0109 -207.14 -96.467)" d="m449.25 392.21a2.9688 2.9688 0 0 1-2.9688 2.9688v-2.9688z" fill="#31363b"/>
   <path transform="matrix(0 9.2685 9.2687 0 -1924.6 -609.94)" d="m100.33 233.97a2.1586 2.1586 0 0 1-2.1586 2.1586v-2.1586z" fill="url(#radialGradient4628)"/>
   <path class="ColorScheme-Text" d="m244 303c1.6376-0.0504 2.9506-1.3634 3.001-3.001h-0.75027c0 1.1723-1.0082 2.2508-2.2508 2.2508z" color="#000000" fill="currentColor" fill-opacity=".25098"/>
  </g>
  <g id="decoration-left" transform="translate(-333.11 143.07)">
   <rect transform="scale(-1)" x="-453.11" y="-389.29" width="20" height="100" fill="url(#linearGradient4624)"/>
-  <rect class="ColorScheme-Background" transform="scale(-1,1)" x="-453.11" y="289.29" width="3" height="100" color="#7f7f7f" fill="#475057"/>
+  <rect class="ColorScheme-Background" transform="scale(-1,1)" x="-453.11" y="289.29" width="3" height="100" fill="#31363b"/>
   <path class="ColorScheme-Text" d="m450.86 289.29h-0.74991v99.994h0.74991v0c-7e-5 -33.331 2.3e-4 -66.663 0-99.994z" color="#000000" fill="currentColor" fill-opacity=".25098"/>
  </g>
  <g id="decoration-bottomleft" transform="translate(-333.11 143.07)">
   <path transform="matrix(0 9.2654 -9.2654 0 2621 -520.34)" d="m100.33 233.97a2.1586 2.1586 0 0 1-2.1586 2.1586v-2.1586z" fill="url(#radialGradient4628)"/>
-  <path class="ColorScheme-Background" transform="matrix(-1.0105 0 0 1.0105 904.09 -7.0432)" d="m449.25 392.21a2.9688 2.9688 0 0 1-2.9688 2.9688v-2.9688z" color="#7f7f7f" fill="#475057"/>
+  <path class="ColorScheme-Background" transform="matrix(-1.0105 0 0 1.0105 904.09 -7.0432)" d="m449.25 392.21a2.9688 2.9688 0 0 1-2.9688 2.9688v-2.9688z" fill="#31363b"/>
   <path class="ColorScheme-Text" d="m453.11 392.29c-1.637-0.0504-2.9496-1.363-3-3h0.75c0 1.1719 1.0078 2.25 2.25 2.25z" color="#000000" fill="currentColor" fill-opacity=".25098"/>
  </g>
- <g id="decoration-top" class="ColorScheme-Background" transform="translate(-333.11 149.07)" color="#7f7f7f">
+ <g id="decoration-top" class="ColorScheme-Background" transform="translate(-333.11 149.07)">
   <rect transform="scale(-1)" x="-553.11" y="-263.29" width="100" height="20" fill="url(#linearGradient4634)"/>
-  <rect class="ColorScheme-Background" transform="matrix(0,-1,-1,0,0,0)" x="-283.29" y="-553.11" width="23" height="100" color="#7f7f7f" fill="#475057"/>
+  <rect class="ColorScheme-Background" transform="matrix(0,-1,-1,0,0,0)" x="-283.29" y="-553.11" width="23" height="100" fill="#31363b"/>
   <path class="ColorScheme-Text" d="m453.11 260.29v0.74991h99.994v-0.74991c-0.10766 0 0.036 0 0 0-33.331 7e-5 -66.663-2.3e-4 -99.994 0z" color="#000000" fill="currentColor" fill-opacity=".25098"/>
  </g>
  <g id="decoration-topleft" transform="translate(-333.11 147.07)">
   <g>
    <rect transform="scale(-1)" x="-453.11" y="-285.29" width="20" height="20" fill="url(#linearGradient4638)"/>
    <path transform="matrix(0 -9.2654 -9.2654 0 2621 1174.9)" d="m100.33 233.97a2.1586 2.1586 0 0 1-2.1586 2.1586v-2.1586z" fill="url(#radialGradient4628)"/>
-   <path class="ColorScheme-Background" transform="matrix(0 -1.0105 -1.0105 0 849.45 716.27)" d="m449.25 392.21a2.9688 2.9688 0 0 1-2.9688 2.9688v-2.9688z" color="#7f7f7f" fill="#475057"/>
-   <rect class="ColorScheme-Background" transform="scale(1,-1)" x="450.11" y="-285.29" width="3" height="20" color="#7f7f7f" fill="#475057"/>
+   <path class="ColorScheme-Background" transform="matrix(0 -1.0105 -1.0105 0 849.45 716.27)" d="m449.25 392.21a2.9688 2.9688 0 0 1-2.9688 2.9688v-2.9688z" fill="#31363b"/>
+   <rect class="ColorScheme-Background" transform="scale(1,-1)" x="450.11" y="-285.29" width="3" height="20" fill="#31363b"/>
   </g>
   <path class="ColorScheme-Text" d="m453.11 262.29c-1.637 0.0504-2.9496 1.363-3 3h0.75c0-1.1719 1.0078-2.25 2.25-2.25z" color="#000000" fill="currentColor" fill-opacity=".25098"/>
   <path class="ColorScheme-Text" d="m450.86 265.29h-0.74991v19.999h0.74991v0c-7e-5 -6.6662 2.3e-4 -13.332 0-19.999z" color="#000000" fill="currentColor" fill-opacity=".25098"/>
@@ -123,53 +112,53 @@
   <g>
    <rect transform="scale(1,-1)" x="603.11" y="-283.29" width="20" height="20" fill="url(#linearGradient4514)"/>
    <path transform="matrix(0 -9.2654 9.2654 0 -1564.7 1172.9)" d="m100.33 233.97a2.1586 2.1586 0 0 1-2.1586 2.1586v-2.1586z" fill="url(#radialGradient4628)"/>
-   <path class="ColorScheme-Background" transform="matrix(0 -1.0105 1.0105 0 206.78 714.27)" d="m449.25 392.21a2.9688 2.9688 0 0 1-2.9688 2.9688v-2.9688z" color="#7f7f7f" fill="#475057"/>
-   <rect class="ColorScheme-Background" transform="scale(-1)" x="-606.11" y="-283.29" width="3" height="20" color="#7f7f7f" fill="#475057"/>
+   <path class="ColorScheme-Background" transform="matrix(0 -1.0105 1.0105 0 206.78 714.27)" d="m449.25 392.21a2.9688 2.9688 0 0 1-2.9688 2.9688v-2.9688z" fill="#31363b"/>
+   <rect class="ColorScheme-Background" transform="scale(-1)" x="-606.11" y="-283.29" width="3" height="20" fill="#31363b"/>
   </g>
   <path class="ColorScheme-Text" d="m603.11 260.29c1.637 0.0504 2.9496 1.363 3 3h-0.75c0-1.1719-1.0078-2.25-2.25-2.25z" color="#000000" fill="currentColor" fill-opacity=".25098"/>
   <path class="ColorScheme-Text" d="m606.11 263.29h-0.74991v19.999h0.74991v0c-7e-5 -6.6662 2.3e-4 -13.332 0-19.999z" color="#000000" fill="currentColor" fill-opacity=".25098"/>
  </g>
  <g id="decoration-center" transform="translate(1.9691 -5)">
-  <rect class="ColorScheme-Background" x="118.03" y="437.36" width="100" height="100" color="#7f7f7f" fill="#475057"/>
+  <rect class="ColorScheme-Background" x="118.03" y="437.36" width="100" height="100" fill="#31363b"/>
  </g>
  <rect id="hint-tile-center" x="300" y="332.36" width="20" height="20" fill="#d1d4dc"/>
  <rect id="hint-stretch-borders" x="340" y="332.36" width="20" height="20" fill="#d1d4dc"/>
  <g id="decoration-inactive-right" transform="translate(165.33 244.01)">
   <rect x="254.67" y="188.35" width="20" height="100" fill="url(#linearGradient3925)"/>
-  <rect class="ColorScheme-Background" x="254.67" y="188.35" width="3" height="100" color="#7f7f7f" fill="#eff0f1"/>
+  <rect class="ColorScheme-Background" x="254.67" y="188.35" width="3" height="100" fill="#eff0f1"/>
   <path class="ColorScheme-Text" d="m257.67 188.35h-0.74991v99.994h0.74991v0c-7e-5 -33.331 2.3e-4 -66.663 0-99.994z" color="#000000" fill="currentColor" fill-opacity=".25098"/>
  </g>
  <g id="decoration-inactive-bottom" transform="translate(-133.14 143.07)">
   <rect transform="rotate(90)" x="389.29" y="-553.14" width="20" height="100" fill="url(#linearGradient4616-4)"/>
-  <rect class="ColorScheme-Background" transform="rotate(90)" x="389.29" y="-553.14" width="3" height="100" color="#7f7f7f" fill="#eff0f1"/>
+  <rect class="ColorScheme-Background" transform="rotate(90)" x="389.29" y="-553.14" width="3" height="100" fill="#eff0f1"/>
   <path class="ColorScheme-Text" d="m453.14 392.29v-0.74991h99.994v0.74991c-0.10766 0 0.036 0 0 0-33.331-7e-5 -66.663 2.3e-4 -99.994 0z" color="#000000" fill="currentColor" fill-opacity=".25098"/>
  </g>
  <g id="decoration-inactive-bottomright" transform="matrix(.99965 0 0 .99966 176.09 232.46)">
-  <path class="ColorScheme-Background" transform="matrix(1.0109 0 0 1.0109 -207.14 -96.468)" d="m449.25 392.21a2.9688 2.9688 0 0 1-2.9688 2.9688v-2.9688z" color="#7f7f7f" fill="#eff0f1"/>
+  <path class="ColorScheme-Background" transform="matrix(1.0109 0 0 1.0109 -207.14 -96.468)" d="m449.25 392.21a2.9688 2.9688 0 0 1-2.9688 2.9688v-2.9688z" fill="#eff0f1"/>
   <path transform="matrix(0 9.2685 9.2687 0 -1924.6 -609.94)" d="m100.33 233.97a2.1586 2.1586 0 0 1-2.1586 2.1586v-2.1586z" fill="url(#radialGradient4628)"/>
   <path class="ColorScheme-Text" d="m244 303c1.6376-0.0504 2.9506-1.3634 3.001-3.001h-0.75026c0 1.1723-1.0082 2.2508-2.2508 2.2508z" color="#000000" fill="currentColor" fill-opacity=".25098"/>
  </g>
  <g id="decoration-inactive-left" transform="translate(-133.11 143.07)">
   <rect transform="scale(-1)" x="-453.11" y="-389.29" width="20" height="100" fill="url(#linearGradient4624)"/>
-  <rect class="ColorScheme-Background" transform="scale(-1,1)" x="-453.11" y="289.29" width="3" height="100" color="#7f7f7f" fill="#eff0f1"/>
+  <rect class="ColorScheme-Background" transform="scale(-1,1)" x="-453.11" y="289.29" width="3" height="100" fill="#eff0f1"/>
   <path class="ColorScheme-Text" d="m450.86 289.29h-0.74991v99.994h0.74991v0c-7e-5 -33.331 2.3e-4 -66.663 0-99.994z" color="#000000" fill="currentColor" fill-opacity=".25098"/>
  </g>
  <g id="decoration-inactive-bottomleft" transform="translate(-133.11 143.07)">
   <path transform="matrix(0 9.2654 -9.2654 0 2621 -520.34)" d="m100.33 233.97a2.1586 2.1586 0 0 1-2.1586 2.1586v-2.1586z" fill="url(#radialGradient4628)"/>
-  <path class="ColorScheme-Background" transform="matrix(-1.0105 0 0 1.0105 904.09 -7.0437)" d="m449.25 392.21a2.9688 2.9688 0 0 1-2.9688 2.9688v-2.9688z" color="#7f7f7f" fill="#eff0f1"/>
+  <path class="ColorScheme-Background" transform="matrix(-1.0105 0 0 1.0105 904.09 -7.0437)" d="m449.25 392.21a2.9688 2.9688 0 0 1-2.9688 2.9688v-2.9688z" fill="#eff0f1"/>
   <path class="ColorScheme-Text" d="m453.11 392.29c-1.637-0.0504-2.9496-1.363-3-3h0.75c0 1.1719 1.0078 2.25 2.25 2.25z" color="#000000" fill="currentColor" fill-opacity=".25098"/>
  </g>
  <g id="decoration-inactive-top" transform="translate(-133.11 149.07)">
   <rect transform="scale(-1)" x="-553.11" y="-263.29" width="100" height="20" fill="url(#linearGradient4634-1)"/>
-  <rect class="ColorScheme-Background" transform="matrix(0,-1,-1,0,0,0)" x="-283.29" y="-553.11" width="23" height="100" color="#7f7f7f" fill="#eff0f1"/>
+  <rect class="ColorScheme-Background" transform="matrix(0,-1,-1,0,0,0)" x="-283.29" y="-553.11" width="23" height="100" fill="#eff0f1"/>
   <path class="ColorScheme-Text" d="m453.11 260.29v0.74991h99.994v-0.74991c-0.10766 0 0.036 0 0 0-33.331 7e-5 -66.663-2.3e-4 -99.994 0z" color="#000000" fill="currentColor" fill-opacity=".25098"/>
  </g>
  <g id="decoration-inactive-topleft" transform="translate(-133.11 147.07)">
   <g>
    <rect transform="scale(-1)" x="-453.11" y="-285.29" width="20" height="20" fill="url(#linearGradient4238)"/>
    <path transform="matrix(0 -9.2654 -9.2654 0 2621 1174.9)" d="m100.33 233.97a2.1586 2.1586 0 0 1-2.1586 2.1586v-2.1586z" fill="url(#radialGradient4628)"/>
-   <path class="ColorScheme-Background" transform="matrix(0 -1.0105 -1.0105 0 849.45 716.27)" d="m449.25 392.21a2.9688 2.9688 0 0 1-2.9688 2.9688v-2.9688z" color="#7f7f7f" fill="#eff0f1"/>
-   <rect class="ColorScheme-Background" transform="scale(1,-1)" x="450.11" y="-285.29" width="3" height="20" color="#7f7f7f" fill="#eff0f1"/>
+   <path class="ColorScheme-Background" transform="matrix(0 -1.0105 -1.0105 0 849.45 716.27)" d="m449.25 392.21a2.9688 2.9688 0 0 1-2.9688 2.9688v-2.9688z" fill="#eff0f1"/>
+   <rect class="ColorScheme-Background" transform="scale(1,-1)" x="450.11" y="-285.29" width="3" height="20" fill="#eff0f1"/>
   </g>
   <path class="ColorScheme-Text" d="m453.11 262.29c-1.637 0.0504-2.9496 1.363-3 3h0.75c0-1.1719 1.0078-2.25 2.25-2.25z" color="#000000" fill="currentColor" fill-opacity=".25098"/>
   <path class="ColorScheme-Text" d="m450.86 265.29h-0.74991v19.999h0.74991v0c-7e-5 -6.6662 2.3e-4 -13.332 0-19.999z" color="#000000" fill="currentColor" fill-opacity=".25098"/>
@@ -178,13 +167,13 @@
   <g>
    <rect transform="scale(1,-1)" x="603.11" y="-283.29" width="20" height="20" fill="url(#linearGradient4526)"/>
    <path transform="matrix(0 -9.2654 9.2654 0 -1564.7 1172.9)" d="m100.33 233.97a2.1586 2.1586 0 0 1-2.1586 2.1586v-2.1586z" fill="url(#radialGradient4628)"/>
-   <path class="ColorScheme-Background" transform="matrix(0 -1.0105 1.0105 0 206.78 714.27)" d="m449.25 392.21a2.9688 2.9688 0 0 1-2.9688 2.9688v-2.9688z" color="#7f7f7f" fill="#eff0f1"/>
-   <rect class="ColorScheme-Background" transform="scale(-1)" x="-606.11" y="-283.29" width="3" height="20" color="#7f7f7f" fill="#eff0f1"/>
+   <path class="ColorScheme-Background" transform="matrix(0 -1.0105 1.0105 0 206.78 714.27)" d="m449.25 392.21a2.9688 2.9688 0 0 1-2.9688 2.9688v-2.9688z" fill="#eff0f1"/>
+   <rect class="ColorScheme-Background" transform="scale(-1)" x="-606.11" y="-283.29" width="3" height="20" fill="#eff0f1"/>
   </g>
   <path class="ColorScheme-Text" d="m603.11 260.29c1.637 0.0504 2.9496 1.363 3 3h-0.75c0-1.1719-1.0078-2.25-2.25-2.25z" color="#000000" fill="currentColor" fill-opacity=".25098"/>
   <path class="ColorScheme-Text" d="m606.11 263.29h-0.74991v19.999h0.74991v0c-7e-5 -6.6662 2.3e-4 -13.332 0-19.999z" color="#000000" fill="currentColor" fill-opacity=".25098"/>
  </g>
  <g id="decoration-inactive-center" transform="translate(201.97 -5)">
-  <rect class="ColorScheme-Background" x="118.03" y="437.36" width="100" height="100" color="#7f7f7f" fill="#eff0f1"/>
+  <rect class="ColorScheme-Background" x="118.03" y="437.36" width="100" height="100" fill="#eff0f1"/>
  </g>
 </svg>

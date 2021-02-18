@@ -23,10 +23,10 @@
         color:#ffffff;
       }
       .ColorScheme-ViewHover {
-        color:#93cee9;
+        color:#3daee9;
       }
       .ColorScheme-ViewFocus{
-        color:#3daee9;
+        color:#3a90be;
       }
       .ColorScheme-ButtonText {
         color:#000000;
@@ -51,7 +51,7 @@
  <g id="pressed-center">
   <rect x="52" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
   <path class="ColorScheme-ViewHover" d="m74 6.9996a8.9999 8.9999 0 1 1-18 0 8.9999 8.9999 0 1 1 18 0z" fill="currentColor" fill-opacity=".75" stroke-width="1.4999"/>
-  <circle cx="65" cy="6.9996" r="1.4999" fill="#606060" stroke-width="1.7066"/>
+  <circle cx="65" cy="6.9996" r="1.4999" fill="#fff" stroke-width="1.7066"/>
  </g>
  <g id="active-center">
   <rect x="-3.9673e-7" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>

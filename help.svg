@@ -23,10 +23,10 @@
         color:#ffffff;
       }
       .ColorScheme-ViewHover {
-        color:#93cee9;
+        color:#3daee9;
       }
       .ColorScheme-ViewFocus{
-        color:#3daee9;
+        color:#3a90be;
       }
       .ColorScheme-ButtonText {
         color:#000000;
@@ -50,8 +50,8 @@
  <g id="pressed-center">
   <rect x="52" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
   <path class="ColorScheme-ViewFocus" d="m74 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" fill-opacity=".75" stroke-width="1.4999"/>
-  <path d="m62.455 3.5864c0.14845-1.46 2.0739-2.1918 3.5187-1.5519 0.73254 0.32443 1.7264 1.2914 1.5443 2.9764-0.15051 1.3918-2.5566 2.9622-2.5746 4.8756" fill="none" stroke="#606060" stroke-width="2.25"/>
-  <path d="m66.49 11.828a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5 1.5 1.5 0 0 1 1.5 1.5z" fill="#606060" stroke-width="1.7066"/>
+  <path d="m62.455 3.5864c0.14845-1.46 2.0739-2.1918 3.5187-1.5519 0.73254 0.32443 1.7264 1.2914 1.5443 2.9764-0.15051 1.3918-2.5566 2.9622-2.5746 4.8756" fill="none" stroke="#fff" stroke-width="2.25"/>
+  <path d="m66.49 11.828a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5 1.5 1.5 0 0 1 1.5 1.5z" fill="#fff" stroke-width="1.7066"/>
  </g>
  <g id="active-center">
   <rect x="-3.9673e-7" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
@@ -72,7 +72,7 @@
  <g id="pressed-inactive-center">
   <rect x="130" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
   <path class="ColorScheme-ViewFocus" d="m152 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" fill-opacity=".75" stroke-width="1.4999"/>
-  <path d="m140.46 3.5864c0.14845-1.46 2.0739-2.1918 3.5187-1.5519 0.73254 0.32443 1.7264 1.2914 1.5443 2.9764-0.15051 1.3918-2.5566 2.9622-2.5746 4.8756" fill="none" stroke="#606060" stroke-width="2.25"/>
-  <path d="m144.5 11.828a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5 1.5 1.5 0 0 1 1.5 1.5z" fill="#606060" stroke-width="1.7066"/>
+  <path d="m140.46 3.5864c0.14845-1.46 2.0739-2.1918 3.5187-1.5519 0.73254 0.32443 1.7264 1.2914 1.5443 2.9764-0.15051 1.3918-2.5566 2.9622-2.5746 4.8756" fill="none" stroke="#fff" stroke-width="2.25"/>
+  <path d="m144.5 11.828a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5 1.5 1.5 0 0 1 1.5 1.5z" fill="#fff" stroke-width="1.7066"/>
  </g>
 </svg>

@@ -14,7 +14,7 @@
         color:#ffffff;
       }
       .ColorScheme-ViewHover {
-        color:#3daee9;
+        color:#3a90be;
       }
       .ColorScheme-ViewFocus{
         color:#5a5a5a;

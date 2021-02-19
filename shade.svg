@@ -82,7 +82,7 @@
  <g id="pressed-inactive-center">
   <rect x="130" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
   <path class="ColorScheme-ViewHover" d="m152 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" fill-opacity=".75" stroke-width="1.4999"/>
-  <g fill="none" stroke="#bdc3c7" stroke-linecap="round" stroke-width="1.4">
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.4">
    <path d="m147.13 6.13-4.2816 4.5483-4.0973-4.3575"/>
    <path d="m147.3 3.1792h-8.7243"/>
   </g>

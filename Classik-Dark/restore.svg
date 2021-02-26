@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="100" height="20" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
+<svg width="100" height="20" version="1.0" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
         color:#000000;
@@ -44,47 +35,47 @@
  <g id="hover-center">
   <rect x="26" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
   <path class="ColorScheme-ViewHover" d="m48 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" stroke-width="1.4999"/>
-  <g fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.4">
-   <rect x="33.594" y="3.9229" width="8.9112" height="8.7016" rx=".3711" ry=".3711"/>
-   <path d="m36.03 3.9138v-2.539h8.3769v8.3769h-1.7606"/>
+  <g fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.5">
+   <rect x="34.106" y="4.2946" width="7.6" height="7.6" rx=".3711" ry=".3711"/>
+   <path d="m36.296 4.4081v-2.3035h7.6v7.6h-2.0547"/>
   </g>
  </g>
  <g id="pressed-center">
   <rect x="52" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
   <path class="ColorScheme-ViewFocus" d="m74 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" fill-opacity=".75" stroke-width="1.4999"/>
-  <g fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.4">
-   <rect x="59.594" y="3.9229" width="8.9112" height="8.7016" rx=".3711" ry=".3711"/>
-   <path d="m62.03 3.9138v-2.539h8.3769v8.3769h-1.7606"/>
+  <g fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.5">
+   <rect x="60.106" y="4.2946" width="7.6" height="7.6" rx=".3711" ry=".3711"/>
+   <path d="m62.296 4.4081v-2.3035h7.6v7.6h-2.0547"/>
   </g>
  </g>
  <g id="active-center">
   <rect x="-3.9673e-7" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
-  <g fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.4">
-   <rect x="7.594" y="3.9229" width="8.9112" height="8.7016" rx=".3711" ry=".3711"/>
-   <path d="m10.03 3.9138v-2.539h8.3769v8.3769h-1.7606"/>
+  <g fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.5">
+   <rect x="8.105" y="4.2946" width="7.6" height="7.6" rx=".3711" ry=".3711"/>
+   <path d="m10.295 4.4081v-2.3035h7.6v7.6h-2.0547"/>
   </g>
  </g>
  <g id="inactive-center">
   <rect x="78" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
-  <g fill="none" stroke="#bdc3c7" stroke-linejoin="round" stroke-width="1.4">
-   <rect x="85.594" y="3.9229" width="8.9112" height="8.7016" rx=".3711" ry=".3711"/>
-   <path d="m88.03 3.9138v-2.539h8.3769v8.3769h-1.7606"/>
+  <g fill="none" stroke="#a1a9b1" stroke-linejoin="round" stroke-width="1.5">
+   <rect x="86.105" y="4.2946" width="7.6" height="7.6" rx=".3711" ry=".3711"/>
+   <path d="m88.295 4.4081v-2.3035h7.6v7.6h-2.0547"/>
   </g>
  </g>
  <g id="hover-inactive-center">
   <rect x="104" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
   <path class="ColorScheme-ViewHover" d="m126 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" stroke-width="1.4999"/>
-  <g fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.4">
-   <rect x="111.59" y="3.9229" width="8.9112" height="8.7016" rx=".3711" ry=".3711"/>
-   <path d="m114.03 3.9138v-2.539h8.3769v8.3769h-1.7606"/>
+  <g fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.5">
+   <rect x="112.11" y="4.2946" width="7.6" height="7.6" rx=".3711" ry=".3711"/>
+   <path d="m114.3 4.4081v-2.3035h7.6v7.6h-2.0547"/>
   </g>
  </g>
  <g id="pressed-inactive-center">
   <rect x="130" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
   <path class="ColorScheme-ViewFocus" d="m152 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" fill-opacity=".75" stroke-width="1.4999"/>
-  <g fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.4">
-   <rect x="137.59" y="3.9229" width="8.9112" height="8.7016" rx=".3711" ry=".3711"/>
-   <path d="m140.03 3.9138v-2.539h8.3769v8.3769h-1.7606"/>
+  <g fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.5">
+   <rect x="138.11" y="4.2946" width="7.6" height="7.6" rx=".3711" ry=".3711"/>
+   <path d="m140.3 4.4081v-2.3035h7.6v7.6h-2.0547"/>
   </g>
  </g>
 </svg>

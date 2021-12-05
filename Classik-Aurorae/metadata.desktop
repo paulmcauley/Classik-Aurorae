@@ -1,7 +1,7 @@
 [Desktop Entry]
-Name=Classik
-Comment=Classik is a window decoration for Aurorae designed to be a refreshed version of the default KDE1 theme; based on Freeze
-X-KDE-PluginInfo-Name=Classik
+Name=Classik-Aurorae
+Comment=Classik-Aurorae is a window decoration for Aurorae designed to be a refreshed version of the default KDE1 theme; based on Freeze
+X-KDE-PluginInfo-Name=Classik-Aurorae
 X-KDE-PluginInfo-Author=MirceaKitsune, Paul McAuley
 X-KDE-PluginInfo-Email=kde@paulmcauley.com
 X-KDE-PluginInfo-Category=Aurorae Theme
